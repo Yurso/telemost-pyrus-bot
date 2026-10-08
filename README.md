@@ -9,3 +9,4 @@ docker compose up -d --build
 ```
 
 Проверка: `python3 test_bot.py`
+# telemost-pyrus-bot
